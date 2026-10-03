@@ -8,11 +8,11 @@ A comprehensive and efficient desktop/mobile management application designed for
 
 | Room & Session Management | Orders & Inventory |
 | :---: | :---: |
-| ![Rooms](screenshots/rooms.png) | ![Orders](screenshots/orders.png) |
+| <img src="./screenshots/Rooms.png" width="400"> | <img src="./screenshots/Drinks.png" width="400"> |
 
-| Financial Reports & Analytics |
-| :---: |
-| ![Reports](screenshots/reports.png) |
+| Financial Reports & Analytics | Stock Tracking |
+| :---: | :---: |
+| <img src="./screenshots/Summary.png" width="400"> | <img src="./screenshots/Stock.png" width="400"> |
 
 ---
 
